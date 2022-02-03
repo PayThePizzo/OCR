@@ -1,0 +1,12 @@
+# Development dependencies
+#
+# A pip requirements file should be placed at the root of the
+# repository.
+# It should specify the dependencies required to contribute to
+# the project: testing, building, and generating documentation.
+#
+# If your project has no development dependencies, or if you
+# prefer setting up a development environment via setup.py,
+# this file may be unnecessary.
+
+opencv-python~=4.5.5.62

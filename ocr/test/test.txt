@@ -1,0 +1,11 @@
+# Steps of difficulty and tests
+
+# 1. License plates
+# 2. Sudoku
+# 3. Page of a book or Menu
+#     3a. Page of book with difficult calligraphy
+# 4. Handwriting
+#     4a. Page of Old book
+# 5. Captcha
+# 6. ID
+

@@ -3,6 +3,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/example" />
+      <excludeFolder url="file://$MODULE_DIR$/models" />
+      <excludeFolder url="file://$MODULE_DIR$/ocr_ex" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.9 (QrCodeGen)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
